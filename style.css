@@ -2,11 +2,11 @@ body {
     font-family: "Open Sans";
   }
 div.cont-1 {
-    width: 40%;
+    width: 45%;
     float:left
 }
 div.cont-2 {
-    width: 40%;
+    width: 45%;
     float: right;
 }
 img {
